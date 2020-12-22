@@ -1,6 +1,6 @@
 # dotfiles
 はじめてdotfilesをつくってみた。
 
-##　dotfilesの内容物
+## dotfilesの内容物
 
 まだない
